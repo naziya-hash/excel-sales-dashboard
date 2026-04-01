@@ -7,3 +7,4 @@ Features:
 -Sales analysis
 Tools used:
 -Microsoft Excel
+-Powerbi
